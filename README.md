@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="lef">Hi 👋! My name is Anas Khan and I'm a Web Developer, from Pakistan.</h3>
+<h3 align="cente">Hi 👋! My name is Anas Khan and I'm a Web Developer, from Pakistan.</h3>
 
 ###
 
